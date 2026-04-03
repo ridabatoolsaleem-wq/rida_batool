@@ -1,58 +1,112 @@
 body {
+  margin: 0;
   font-family: Arial, sans-serif;
   line-height: 1.7;
-  margin: 0;
-  background: #f7f9fc;
-  color: #222;
+  background: #f4f8fc;
+  color: #1f2937;
 }
 
-.page-content,
-.wrapper,
-main {
-  max-width: 900px;
-  margin: auto;
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
-.home-hero {
+.site-header {
+  background: white;
+  border-bottom: 1px solid #dbe3ec;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 0;
+}
+
+.site-title a {
+  text-decoration: none;
+  font-size: 28px;
+  font-weight: bold;
+  color: #1d4ed8;
+}
+
+.site-nav a {
+  text-decoration: none;
+  color: #334155;
+  margin-left: 22px;
+  font-weight: 600;
+}
+
+.site-nav a:hover {
+  color: #1d4ed8;
+}
+
+.main-content {
+  padding: 40px 0;
+}
+
+.hero-box {
   background: linear-gradient(135deg, #dbeafe, #eff6ff);
-  border: 1px solid #d6e4ff;
-  border-radius: 16px;
-  padding: 40px 30px;
-  margin: 20px 0 30px 0;
+  border: 1px solid #cfe0ff;
+  border-radius: 18px;
+  padding: 50px 35px;
   text-align: center;
+  margin-bottom: 35px;
 }
 
-.home-hero h1 {
+.hero-box h1 {
   margin-top: 0;
-  font-size: 2.2rem;
+  font-size: 42px;
+  color: #1e3a8a;
 }
 
-.hero-text {
-  font-size: 1.1rem;
+.hero-box p {
+  font-size: 18px;
   max-width: 700px;
-  margin: 15px auto 25px auto;
+  margin: 15px auto;
 }
 
 .button {
   display: inline-block;
-  padding: 12px 20px;
-  margin: 8px;
-  border-radius: 8px;
+  margin: 10px 8px 0 8px;
+  padding: 12px 22px;
+  border-radius: 10px;
   text-decoration: none;
   font-weight: bold;
   background: #2563eb;
   color: white;
 }
 
-.button-light {
+.button.secondary {
   background: white;
   color: #2563eb;
   border: 1px solid #2563eb;
 }
 
-h2 {
-  margin-top: 30px;
+.info-card {
+  background: white;
+  border-radius: 14px;
+  padding: 28px;
+  margin-bottom: 25px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+.info-card h2 {
+  margin-top: 0;
   color: #1d4ed8;
+}
+
+.site-footer {
+  background: white;
+  border-top: 1px solid #dbe3ec;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 40px;
+  color: #64748b;
 }
 
 ul {
