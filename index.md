@@ -1,47 +1,43 @@
 ---
-layout: page
+layout: default
 title: Home
 permalink: /
 ---
 
-<div class="home-hero">
+<div class="hero-box">
   <h1>Welcome to My Personal Website</h1>
-  <p class="hero-text">
-    Hi, I am <strong>Rida Batool</strong>, a Computer Engineering student learning, growing,
-    and building confidence in technology step by step.
+  <p>
+    Hi, I am <strong>Rida Batool</strong>, a Computer Engineering student
+    learning programming, databases, and technology step by step.
   </p>
   <p>
-    <a class="button" href="{{ '/blog/' | relative_url }}">Read My Blog</a>
-    <a class="button button-light" href="{{ '/about/' | relative_url }}">Learn More About Me</a>
+    This website presents my profile, learning journey, and blog posts in a clean and organized way.
+  </p>
+  <a class="button" href="{{ '/blog/' | relative_url }}">Visit My Blog</a>
+  <a class="button secondary" href="{{ '/about/' | relative_url }}">About Me</a>
+</div>
+
+<div class="info-card">
+  <h2>About Me</h2>
+  <p>
+    I am a student of Computer Engineering with a strong interest in learning new technologies.
+    My journey started with very little computer background, but through practice and patience,
+    I have improved my confidence in programming and technical subjects.
   </p>
 </div>
 
-## About Me
+<div class="info-card">
+  <h2>My Learning Journey</h2>
+  <p>
+    Through this website, I share my academic experiences, progress, and challenges as a student.
+    My blog reflects what I am learning in programming, lab work, projects, and databases.
+  </p>
+</div>
 
-I am a student of Computer Engineering with a growing interest in programming, databases, and technology.  
-My journey started with very little computer background, so learning coding was difficult in the beginning.  
-But with patience, practice, and guidance from my teachers, I gradually improved and became more confident.
-
-## My Learning Journey
-
-Through this website, I share my academic experiences, challenges, and progress as a student.  
-My blog includes reflections on:
-
-- starting Computer Engineering without a programming background
-- learning Python and improving through practice
-- handling lab work, quizzes, and exams
-- working on projects related to Pandas, datasets, and machine learning
-- gaining confidence in Database Systems and MySQL
-
-## My Goals
-
-My goal is to continue improving my technical knowledge and become more skilled in web development, databases, and software-related fields.  
-This website is a record of my learning journey and personal growth.
-
-## Explore My Website
-
-You can use this website to learn more about me:
-
-- Visit the **About** page to know my background
-- Visit the **Contact** page to reach me
-- Visit the **Blog** page to read my posts and experiences
+<div class="info-card">
+  <h2>My Goals</h2>
+  <p>
+    My goal is to continue improving my technical knowledge and become more skilled in web development,
+    databases, and software-related fields.
+  </p>
+</div>
