@@ -1,0 +1,9 @@
+title: Rida Batool
+description: Personal website and blog
+theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+  - blog.md
