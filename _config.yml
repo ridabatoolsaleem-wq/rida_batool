@@ -7,3 +7,6 @@ header_pages:
   - about.md
   - contact.md
   - blog.md
+
+minima:
+  skin: classic
