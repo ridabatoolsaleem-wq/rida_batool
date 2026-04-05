@@ -7,7 +7,6 @@ permalink: /blog/
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
 <div class="custom-blog-container">
-  <!-- Banner Image -->
   <div class="custom-banner">
     <img src="{{ '/assets/image_2.jpeg' | relative_url }}" alt="Blog Banner" class="custom-banner-image">
     <div class="custom-banner-overlay">
@@ -16,7 +15,6 @@ permalink: /blog/
     </div>
   </div>
 
-  <!-- Article 1 -->
   <article class="custom-article-card">
     <div class="custom-article-content">
       <h2 class="custom-article-title">Using Flexbox for easy alignment</h2>
@@ -95,14 +93,13 @@ p {
     </div>
   </article>
 
-  <!-- Article 2 -->
   <article class="custom-article-card">
     <div class="custom-article-content">
       <h2 class="custom-article-title">Getting Started with JavaScript</h2>
       
       <div class="custom-article-meta">
-        <span>📅 January 8, 2024</span>
-        <span>⏱️ 4 min read</span>
+        <span>By Rida Batool Mar 2026</span>
+        <span>4 min read</span>
       </div>
       
       <div class="custom-article-text">
