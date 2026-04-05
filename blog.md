@@ -22,8 +22,8 @@ permalink: /blog/
       <h2 class="custom-article-title">Using Flexbox for easy alignment</h2>
       
       <div class="custom-article-meta">
-        <span>📅 January 15, 2024</span>
-        <span>⏱️ 5 min read</span>
+        <span>By Rida Batool Mar 2026</span>
+        <span>5 min read</span>
       </div>
       
       <div class="custom-article-text">
