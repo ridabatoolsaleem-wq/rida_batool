@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
 <div class="custom-blog-container">
   <!-- Banner Image -->
