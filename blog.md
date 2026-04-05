@@ -208,7 +208,7 @@ permalink: /blog/
 <div class="custom-blog-container">
   <!-- Banner Image -->
   <div class="custom-banner">
-    <img src="/image_2.jpeg" alt="Blog Banner" class="custom-banner-image">
+    <img src="/assets/image_2.jpeg" alt="Blog Banner" class="custom-banner-image">
     <div class="custom-banner-overlay">
       <h1 class="custom-banner-title">My Blog</h1>
       <p class="custom-banner-subtitle">Thoughts, tutorials, and insights</p>
