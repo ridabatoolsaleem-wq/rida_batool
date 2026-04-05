@@ -124,7 +124,8 @@ permalink: /blog/
     margin: 20px 0;
     border-radius: 10px;
     overflow: hidden;
-    background: var(--blog-code-bg);
+    background: #000000;
+    border: 1px solid #333333;
   }
   
   .custom-code-header {
@@ -132,22 +133,22 @@ permalink: /blog/
     justify-content: space-between;
     align-items: center;
     padding: 10px 15px;
-    background: var(--blog-code-surface);
-    border-bottom: 1px solid var(--blog-code-comment);
+    background: #1a1a1a;
+    border-bottom: 1px solid #333333;
   }
   
   .custom-code-header span {
-    color: var(--blog-code-text);
+    color: #ffffff;
     font-family: var(--font-mono);
     font-size: 0.85em;
   }
   
   .custom-copy-btn {
-    background: rgba(255,255,255,0.1);
-    border: none;
+    background: #2a2a2a;
+    border: 1px solid #444444;
     padding: 5px 12px;
     border-radius: 6px;
-    color: var(--blog-code-text);
+    color: #ffffff;
     cursor: pointer;
     font-family: var(--font-mono);
     font-size: 0.8em;
@@ -155,20 +156,23 @@ permalink: /blog/
   }
   
   .custom-copy-btn:hover {
-    background: rgba(255,255,255,0.2);
+    background: #3a3a3a;
   }
   
   .custom-code-block pre {
     margin: 0;
     padding: 20px;
     overflow-x: auto;
+    background: #000000;
   }
   
   .custom-code-block code {
     font-family: var(--font-mono);
     font-size: 0.85em;
     line-height: 1.6;
-    color: var(--blog-code-text);
+    color: #ffffff;
+    background: #000000;
+    display: block;
   }
   
   .custom-tag {
@@ -208,7 +212,7 @@ permalink: /blog/
 <div class="custom-blog-container">
   <!-- Banner Image -->
   <div class="custom-banner">
-    <img src="/assets/image_2.jpeg" alt="Blog Banner" class="custom-banner-image">
+    <img src="{{ '/assets/image_2.jpeg' | relative_url }}" alt="Blog Banner" class="custom-banner-image">
     <div class="custom-banner-overlay">
       <h1 class="custom-banner-title">My Blog</h1>
       <p class="custom-banner-subtitle">Thoughts, tutorials, and insights</p>
@@ -294,7 +298,7 @@ p {
     </div>
   </article>
 
-  <!-- Article 2 (Example of another post) -->
+  <!-- Article 2 -->
   <article class="custom-article-card">
     <div class="custom-article-content">
       <h2 class="custom-article-title">Getting Started with JavaScript</h2>
@@ -324,6 +328,20 @@ console.log(`Hello, I'm ${name} and I'm ${age} years old`);</code></pre>
         
         <h2>Functions Made Simple</h2>
         <p>Functions are reusable blocks of code that make your program organized.</p>
+        
+        <div class="custom-code-block">
+          <div class="custom-code-header">
+            <span>functions.js</span>
+            <button class="custom-copy-btn" onclick="copyCode(this)">Copy</button>
+          </div>
+          <pre><code>function greet(name) {
+  return `Hello, ${name}!`;
+}
+
+const arrowGreet = (name) => `Hello, ${name}!`;
+
+console.log(greet("Developer"));</code></pre>
+        </div>
       </div>
       
       <div class="custom-tags-container">
