@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog
+permalink: /blog/
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">
