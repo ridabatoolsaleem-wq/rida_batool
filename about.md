@@ -19,4 +19,4 @@ This website is designed to separate my static personal information from my blog
 
 ## Let's Connect
 
-Check out my [contact page](/contact/) to reach me!
+Check out my [contact page](/rida_batool/contact/) to reach me!
