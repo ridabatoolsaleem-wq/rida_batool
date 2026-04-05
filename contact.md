@@ -8,5 +8,5 @@ permalink: /contact/
 
 You can contact me here:
 
-- Email: your-email@example.com
+- Email: ridabatoolsaleem@gmail.com
 - GitHub: ridabatoolsaleem-wq
