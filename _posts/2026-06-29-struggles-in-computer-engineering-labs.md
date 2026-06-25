@@ -4,6 +4,7 @@ title: "Struggles and Learning in Computer Engineering Labs"
 date: 2026-06-29
 categories: [blog]
 ---
+![Computer Lab](https://images.unsplash.com/photo-1569653402334-2e98fbaa80ee?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29tcHV0ZXIlMjBsYWJ8ZW58MHx8MHx8fDA%3D)
 
 Lab sessions were one of the most challenging parts of my first semester. 
 Each session lasted around three hours, which felt very long — especially 
