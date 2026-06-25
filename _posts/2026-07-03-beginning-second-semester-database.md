@@ -4,6 +4,7 @@ title: "Beginning the Second Semester with Database Systems — A Fresh Start"
 date: 2026-07-03
 categories: [blog]
 ---
+![Database Systems](https://media.istockphoto.com/id/1188511715/photo/back-end-project-architecture-development-database-development-planning.webp?a=1&b=1&s=612x612&w=0&k=20&c=rLtSfRMQCnJd08bcHgonMzTTz5HxdtsUs2sRi5KuUV0=)
 
 When the second semester began and I saw Database Systems on my timetable, 
 I did not know what to expect. After a difficult first semester with Python, 
