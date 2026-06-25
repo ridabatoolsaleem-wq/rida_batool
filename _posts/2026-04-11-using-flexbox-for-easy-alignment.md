@@ -4,6 +4,7 @@ title: "Using Flexbox for Easy Alignment"
 date: 2026-04-10
 categories: [blog]
 ---
+![Web Design CSS](https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?w=600&auto=format&fit=crop&q=60)
 
 When I started building my portfolio website, one of the 
 biggest challenges was getting elements to align properly. 
