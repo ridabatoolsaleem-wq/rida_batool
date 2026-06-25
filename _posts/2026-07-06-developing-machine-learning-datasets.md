@@ -4,6 +4,7 @@ title: "Developing Machine Learning Dataset Ideas — My First Real Contribution
 date: 2026-07-06
 categories: [blog]
 ---
+![Machine Learning](https://images.unsplash.com/photo-1591453089816-0fbb971b454c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHwwfHx8MA%3D%3D)
 
 Toward the end of the semester, we were given a task that felt different 
 from everything we had done before. Instead of being handed a dataset and 
