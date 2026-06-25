@@ -4,6 +4,7 @@ title: "Why I Started a Portfolio Blog — And What My Teacher Said"
 date: 2026-06-25
 categories: [blog]
 ---
+![Portfolio Blog](https://cdn.dribbble.com/userupload/5127154/file/original-d75d59d90cbeacbfb18ad59c09d68ace.jpg?resize=640x&vertical=center)
 
 When my professor suggested that I build a personal portfolio website, I did not fully understand why. I was a Computer Engineering student still trying to figure out how loops work and why my SQL queries kept throwing errors. A website felt like something for people who had already figured everything out — not for someone still in the middle of figuring things out. But the suggestion came from Dr. Bilal Ahmad, a professor at UET Lahore's Faisalabad Campus, and it made me stop and think more carefully.
 
