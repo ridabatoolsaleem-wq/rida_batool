@@ -4,6 +4,7 @@ title: "Digital Footprint as a Student — Why It Matters More Than You Think"
 date: 2026-07-09
 categories: [blog]
 ---
+![Digital Footprint](https://images.unsplash.com/photo-1654277041218-84424c78f0ae?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2l0aHViJTIwcG9ydGZvbGlvJTIyfGVufDB8fDB8fHww)
 
 When I first heard the phrase "digital footprint," I thought it was 
 something that applied to famous people — celebrities, politicians, 
