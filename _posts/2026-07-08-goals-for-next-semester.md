@@ -4,6 +4,7 @@ title: "My Goals for Next Semester — Lessons Carried Forward"
 date: 2026-07-08
 categories: [blog]
 ---
+![Goals Planning](https://images.unsplash.com/photo-1610540604745-3e96fba9ccef?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hbHMlMjBwbGFubmluZ3xlbnwwfHwwfHx8MA%3D%3D)
 
 Every semester ends with results, but the more important thing it ends 
 with is perspective. Now that this semester is behind me, I find myself 
