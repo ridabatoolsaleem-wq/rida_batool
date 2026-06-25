@@ -4,6 +4,7 @@ title: "My Journey to Understanding Python — Mistakes, Practice and Progress"
 date: 2026-06-28
 categories: [blog]
 ---
+![Python Programming](https://images.unsplash.com/photo-1649180556628-9ba704115795?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cHl0aG9uJTIwcHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D)
 
 Learning Python was one of the hardest things I did this semester. I came 
 into Computer Engineering without any coding background, so when I first 
