@@ -4,6 +4,7 @@ title: "Planning an E-Commerce Project — Creativity, Teamwork and a Change of 
 date: 2026-07-04
 categories: [blog]
 ---
+![E-Commerce Project](https://cdn.dribbble.com/userupload/5127154/file/original-d75d59d90cbeacbfb18ad59c09d68ace.jpg?resize=640x&vertical=center)
 
 In our Database Systems course, we were assigned a project to build an 
 e-commerce platform. The goal was to apply everything we had learned — 
