@@ -4,6 +4,7 @@ title: "Impact of Current Situations on Academic Life — Online Classes and Int
 date: 2026-07-05
 categories: [blog]
 ---
+![Online Classes](https://plus.unsplash.com/premium_photo-1683124226167-6d79bd64d725?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8b25saW5lJTIwY2xhc3NlcyUyMGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D)
 
 There are moments in a semester that no one plans for. This was one of them. 
 Due to international tensions, Pakistan faced a petrol shortage that 
