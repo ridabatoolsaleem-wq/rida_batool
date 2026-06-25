@@ -4,6 +4,7 @@ title: "What DLD, OOPs and Database Taught Me Together — A Semester in Review"
 date: 2026-07-07
 categories: [blog]
 ---
+![Computer Engineering](https://plus.unsplash.com/premium_photo-1723921242867-42dbc213fbd1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29tcHV0ZXIlMjBlbmdpbmVlcmluZ3xlbnwwfHwwfHx8MA%3D%3D)
 
 Looking back at this semester, I did not just study individual subjects. 
 I studied a collection of ideas that, taken together, started to form a 
